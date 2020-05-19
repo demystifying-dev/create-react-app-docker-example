@@ -1,5 +1,9 @@
 # Docker for Create React App development with hot reloading
 
+## Video
+
+[![nextjs docker compose example](http://img.youtube.com/vi/i95AMY1lXNo/0.jpg)](https://youtu.be/i95AMY1lXNo)
+
 ## Ref
 
 - [Create React App. Getting Started](https://create-react-app.dev/docs/getting-started/)
